@@ -1,0 +1,14 @@
+C:\Users\savio\Desktop\Senai_CSharp\Atividade\bin\Debug\net8.0\Atividade.exe
+C:\Users\savio\Desktop\Senai_CSharp\Atividade\bin\Debug\net8.0\Atividade.deps.json
+C:\Users\savio\Desktop\Senai_CSharp\Atividade\bin\Debug\net8.0\Atividade.runtimeconfig.json
+C:\Users\savio\Desktop\Senai_CSharp\Atividade\bin\Debug\net8.0\Atividade.dll
+C:\Users\savio\Desktop\Senai_CSharp\Atividade\bin\Debug\net8.0\Atividade.pdb
+C:\Users\savio\Desktop\Senai_CSharp\Atividade\obj\Debug\net8.0\Atividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\savio\Desktop\Senai_CSharp\Atividade\obj\Debug\net8.0\Atividade.AssemblyInfoInputs.cache
+C:\Users\savio\Desktop\Senai_CSharp\Atividade\obj\Debug\net8.0\Atividade.AssemblyInfo.cs
+C:\Users\savio\Desktop\Senai_CSharp\Atividade\obj\Debug\net8.0\Atividade.csproj.CoreCompileInputs.cache
+C:\Users\savio\Desktop\Senai_CSharp\Atividade\obj\Debug\net8.0\Atividade.dll
+C:\Users\savio\Desktop\Senai_CSharp\Atividade\obj\Debug\net8.0\refint\Atividade.dll
+C:\Users\savio\Desktop\Senai_CSharp\Atividade\obj\Debug\net8.0\Atividade.pdb
+C:\Users\savio\Desktop\Senai_CSharp\Atividade\obj\Debug\net8.0\Atividade.genruntimeconfig.cache
+C:\Users\savio\Desktop\Senai_CSharp\Atividade\obj\Debug\net8.0\ref\Atividade.dll
